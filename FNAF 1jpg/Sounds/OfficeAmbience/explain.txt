@@ -1,0 +1,12 @@
+Cold Presence B
+The main ambience and plays during the whole night until power runs out. This was an alternate version of "Cold Presence", which was used for the game's trailer video.
+________________________________________
+Eerie Ambience
+Heard when the animatronic approached closer. There is a special area including the hallways (west and east) and the Supply Closet. Depending on if Bonnie or Chica is inside this area, the volume increases. If Foxy is past stage 2 (looking out of Pirate Cove) the volume is also increased. These are the following values: 30% when 1 threat, 50 when 2 threats, 75 when 3 threats. The volume is 100% if Freddy is inside the Office.
+
+It is a "Eerie Ambience - Large, Scary Space, Sweeping Tones" (alternatively "SCI FI, AMBIENCE - GIANT HOLLOW TUBE SECTOR") sample from SoundDogs.
+________________________________________
+Surreal Ominous Ambience
+The power-out ambience. Note that the ambiance is also used in Ultimate Custom Night.
+
+It is a "Surreal Ominous Background - Dark, Deep, Wind Elements, Haunted House Ambience, Flowing" sample from Sound Ideas.
